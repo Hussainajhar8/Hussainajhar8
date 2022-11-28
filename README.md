@@ -6,6 +6,6 @@
 
 📚 Some hobbies include; Cycling, reading and training in MMA.
 
-📝Next up on the list are Kubernetes and GitLab
+📝 Next up on the list are Docker and Kubernetes
 
-Skills: AWS ☁️ | Azure ☁️ | Linux 📁 | Git 📩 | Terraform 💻 | Python
+Skills: AWS ☁️ | Azure ☁️ | Linux 📁 | Git 📩 | Terraform 💻 | Python | GitLab
