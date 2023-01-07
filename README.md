@@ -6,6 +6,6 @@
 
 📚 Some hobbies include; Cycling, reading and training in MMA.
 
-📝 Next up on the list are Docker and Kubernetes
+📝Next up on the list is CKA & Golang
 
-Skills: AWS ☁️ | Azure ☁️ | Linux 📁 | Git 📩 | Terraform 💻 | Python | GitLab
+Skills: AWS | Azure | Linux | Terraform | CI/CD | Docker | Kubernetes
