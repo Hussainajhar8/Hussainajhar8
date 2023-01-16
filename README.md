@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ajhar</h1>
-<h4 align="center">A Digital Mechanic (DevOps and Software Development Enthusiast)</h4>
+<h4 align="center">A Digital Mechanic (DevOps and Software Development Engineer)</h4>
 </div>
 
 I'm a DevOps Engineer with expertise in Terraform, Docker, Kubernetes and AWS. My passion lies in automating workflows and tasks, as well as containerizing applications. If you're looking for examples of my work, check out my projects and follow my LinkedIn profile "[AjharHussain][linkedin]" for updates on my latest endeavors in the DevOps field.
