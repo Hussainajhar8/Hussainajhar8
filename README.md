@@ -15,9 +15,9 @@ For a glimpse into my expertise, explore my projects. Stay updated on my latest 
 <p align="left"> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/> </a> <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/> </a> </a> <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheusio" width="40" height="40"/> </a></p>
 
 ### ⭐️ My Favorite Project Repos
-* <a href="https://github.com/Hussainajhar8/my-aws-cloud-resume">ajharresume</a> - My Cloud Resume
+* <a href="https://github.com/Hussainajhar8/my-aws-cloud-resume">ajharresume</a> - My Cloud Resume on AWS
 * <a href="https://github.com/Hussainajhar8/3-Tier-Architecture">3-Tier-Architecture</a> - IAC of Tier-3-Architecture in AWS
-* <a href="https://github.com/Hussainajhar8/python-charity-slot-machine">Give or more</a> - Python Charity Slot Machine
+* <a href="https://github.com/Hussainajhar8/pokemon_showdown">Pokemon Showdown!</a> - Pokemon fighting game in Python
 
  <details>
  <summary><h3>🗻 My DevOps Journey</h3></summary>
