@@ -4,7 +4,7 @@
 <h5 align="center"> You are visitor number: <img src="https://profile-counter.glitch.me/Hussainajhar8/count.svg" height="20px"> </h5>
 </div>
 
-I'm a dedicated DevOps Engineer with over a year of experience in Terraform, CI/CD, Docker, Kubernetes, and AWS. I am passionate about automating and streamlining processes. I graduated from the AWS re/Start Bootcamp, where I gained good technical and soft skills. I hold certifications in AWS and Azure, which provide me with a solid foundation in the cloud. I am committed to continuous improvement, as demonstrated by my successful completion of The Cloud Resume Challenge, which showcased my expertise in different DevOps technologies. I am enthusiastic about taking on new challenges and contributing to impactful projects in the future.
+I'm a dedicated DevOps Engineer skilled in Terraform, Docker, Kubernetes, and AWS. My true passion is streamlining processes and tasks through automation, while also excelling in containerising applications. As a proud graduate of the AWS re/Start Bootcamp, I've honed many technical and soft skills and have been upskilling ever since. I'm eager to take on new challenges and look forward to the journey ahead.
 
 For a glimpse into my expertise, explore my projects. Stay updated on my latest exploits in the world of DevOps by connecting with me on [LinkedIn][linkedin]. Also, check out my certifications [here](https://www.credly.com/users/ajhar-hussain).
 
