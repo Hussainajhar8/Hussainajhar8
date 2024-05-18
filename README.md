@@ -18,13 +18,13 @@ For a glimpse into my expertise, explore my projects. Stay updated on my latest 
 
  <details>
  <summary><h3>🗻 My DevOps Journey</h3></summary>
-   My journey into DevOps has been driven by a genuine fascination with cloud technology and a relentless pursuit of automation. It all began after a productive first year of my mechanical engineering studies at Queen Mary University, where I encountered the AWS re/Start program, an opportunity that would profoundly shape my career trajectory.
+   A genuine fascination with cloud technology and a pursuit of automation has driven my journey into DevOps. It all began after a productive first year of my mechanical engineering studies at Queen Mary University, where I encountered the AWS re/Start program, an opportunity that would profoundly shape my career trajectory.
 
 Enrolling in the program opened my eyes to the vast landscape of cloud computing and its transformative potential. From Linux and Python to networking, databases, security, and CI/CD pipelines, I immersed myself in a comprehensive curriculum that laid a solid foundation for my journey ahead.
 
-Inspired by the possibilities unleashed by the cloud, I made the pivotal decision to pivot away from traditional academia and focus my efforts on becoming a DevOps Engineer. Since then, I've committed myself to continuous learning and skills development, leveraging every opportunity to deepen my expertise and refine my craft.
+Inspired by the possibilities unleashed by the cloud, I decided to pivot away from traditional academia and focus my efforts on becoming a DevOps Engineer. Since then, I've committed myself to continuous learning and skills development, leveraging every opportunity to deepen my expertise and refine my craft.
 
-One particularly enlightening project was the creation of a serverless reminder app using AWS tools and the development of a sophisticated 3-tier system on AWS with Terraform. These hands-on experiences not only honed my technical abilities but also instilled in me a deep appreciation for the principles of automation and infrastructure as code.
+One particularly enlightening project was creating a serverless reminder app using AWS tools and developing a 3-tier system on AWS with Terraform. These hands-on experiences not only honed my technical abilities but also instilled in me a deep appreciation for the principles of automation and infrastructure as code.
 
 The Cloud Resume Challenge served as a poignant reminder of the importance of efficiency and scalability in modern IT environments. As I endeavoured to deploy my portfolio website on AWS, I encountered familiar hurdles—tedious manual tasks that stifled productivity. Determined to overcome these obstacles, I embraced the ethos of DevOps, implementing CI/CD pipelines and Terraform to automate the deployment process. The result was a streamlined workflow that allowed for seamless updates and freed up valuable time for innovation.
 
