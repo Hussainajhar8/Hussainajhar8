@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="35px" height="35px" style="max-width:100%;"> , I'm Ajhar</h1>
-<h4 align="center">A Digital Mechanic (DevOps and Software Development Engineer)</h4>
+<h4 align="center">A DevOps Engineer</h4>
 <h5 align="center"> You are visitor number: <img src="https://profile-counter.glitch.me/Hussainajhar8/count.svg" height="20px"> </h5>
 </div>
 
